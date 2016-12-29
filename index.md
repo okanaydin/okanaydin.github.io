@@ -1,7 +1,6 @@
 ## Welcome
 
 
-
 Hi, I am Okan AYDIN. I live in Istanbul. 
 First year I studied at Beykoz University on Mobile Technology. 
 And second year I switched to the university and started at okan University. 
